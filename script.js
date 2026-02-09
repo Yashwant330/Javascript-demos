@@ -35,3 +35,9 @@ var name = "Alice";
 console.log(typeof x); // Output: "number"
 console.log(typeof name); // Output: "string"
 
+
+
+var num1 = 10;
+var num2 = 20;
+var sum = num1 + num2;
+
